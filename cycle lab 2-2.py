@@ -7,3 +7,4 @@ print(b)
 a=7
 print(a)
 print(b)
+# The value of a is now 7 and the value of b is still 3 because the value of a changed when I put "a=7"
